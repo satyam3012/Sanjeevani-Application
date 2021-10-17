@@ -1,1 +1,1 @@
-# SmartHospital
+# Sanjeevani Application
